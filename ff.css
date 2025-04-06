@@ -1,0 +1,12 @@
+h1{
+    margin-bottom: 20px;
+}
+p{
+    padding:0px 10px;
+}
+#n1{
+    color: rgb(0, 19, 139);
+    background-color: blueviolet;
+    width: fit-content;
+    padding: 5px;
+}
